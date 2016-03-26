@@ -1,0 +1,38 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Owen D'Aprile",
+    "enableMultiJS": true,
+    "longName": "Robostangs Team 548",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Robostangs Logo.png",
+                "menuIcon": true,
+                "name": "IMAGE_ROBOSTANGS_LOGO",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/BankGothic-Regular.ttf",
+                "name": "FONT_BANK_GOTHIC_30",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Robostangs",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "6d031ddf-798d-4b16-b4ff-628bb56c220e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
