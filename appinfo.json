@@ -23,9 +23,11 @@
                 "type": "bitmap"
             },
             {
+                "characterRegex": "[0-9:]",
                 "file": "fonts/BankGothic-Regular.ttf",
                 "name": "FONT_BANK_GOTHIC_30",
                 "targetPlatforms": null,
+                "trackingAdjust": 1,
                 "type": "font"
             }
         ]
