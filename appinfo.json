@@ -10,8 +10,14 @@
     "resources": {
         "media": [
             {
-                "file": "images/Robostangs Logo.png",
+                "file": "images/Robostangs Logo Small",
                 "menuIcon": true,
+                "name": "IMAGE_ROBOSTANGS_LOGO_SMALL",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/Robostangs Logo.png",
                 "name": "IMAGE_ROBOSTANGS_LOGO",
                 "targetPlatforms": null,
                 "type": "bitmap"
@@ -28,10 +34,11 @@
     "shortName": "Robostangs",
     "targetPlatforms": [
         "aplite",
-        "basalt"
+        "basalt",
+        "chalk"
     ],
     "uuid": "6d031ddf-798d-4b16-b4ff-628bb56c220e",
-    "versionLabel": "1.0",
+    "versionLabel": "1.1",
     "watchapp": {
         "watchface": true
     }
