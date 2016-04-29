@@ -5,7 +5,7 @@
     ],
     "companyName": "Owen D'Aprile",
     "enableMultiJS": true,
-    "longName": "Robostangs Team 548",
+    "longName": "Robostangs - Team 548",
     "projectType": "native",
     "resources": {
         "media": [
@@ -40,7 +40,7 @@
         "chalk"
     ],
     "uuid": "6d031ddf-798d-4b16-b4ff-628bb56c220e",
-    "versionLabel": "1.1",
+    "versionLabel": "1.3",
     "watchapp": {
         "watchface": true
     }
